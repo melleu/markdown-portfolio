@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+It is *Sunday* __afternoon__ and I am not creative to write anything about me.
